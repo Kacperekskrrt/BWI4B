@@ -1,0 +1,55 @@
+nav {
+
+    background-color: #f8c488;
+    color: rgb(168, 14, 168);
+    padding: 0;
+
+}
+
+nav ul {
+
+    list-style-type: none;
+    padding: 0;
+
+}
+
+nav ul li {
+
+    display: inline;
+    margin-right: 20 px;
+
+}
+
+nav a {
+
+    text-decoration: none;
+    color: yellow;
+
+}
+
+footer {
+
+    text-align: center;
+    background-color: #f8c488;
+    color: yellow;
+    padding: 10px 0;
+
+}
+
+h1 {
+    background-color: rgb(133, 61, 61);
+}
+
+form label {
+    
+    background-color: #f8c488; 
+    color: rgb(104, 37, 48);
+
+}
+
+p {
+    
+    background-color: #f8c488; 
+    color: rgb(104, 37, 48);
+
+}
