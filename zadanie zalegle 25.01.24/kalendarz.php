@@ -52,6 +52,7 @@
         }
         mysqli_close($con);
         ?>
+        <p>Stronę wykonał: Kacper Nowak 4b nr 18</p>
     </footer>
 </body>
 
