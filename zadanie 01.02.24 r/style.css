@@ -1,0 +1,58 @@
+* {
+    margin: 0 auto;
+    font-family: Garamond;
+}
+
+.left, .left2 {
+    width: 25%;
+    background-color: lavender;
+    float: left;
+}
+
+.left {
+    height: 500px;
+}
+
+.left2 {
+    height: 300px;
+}
+
+.right, .right2 {
+    width: 75%;
+    text-align: center;
+    float: right;
+}
+
+.right {
+    height: 150px;
+    background-color: indigo;
+    color: white;
+    font-size: 200%;
+}
+
+.right2 {
+    height: 650px;
+    background-color: lavender;
+    font-size: 200%;
+}
+
+ul {
+    list-style-type: square;
+}
+
+img {
+    padding: 5px;
+    margin: 10px;
+}
+
+img:hover {
+    padding: 4px;
+    border: 1px solid indigo;
+}
+
+footer {
+    background-color: indigo;
+    color: white;
+    text-align: right;
+    clear: both;
+}
